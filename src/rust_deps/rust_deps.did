@@ -1,3 +1,9 @@
 service : {
     "greet": (text) -> (text) query;
+
+    "greet2": (text) -> (text);
+
+    "now" : () -> (int);
+
+    "read" : () -> (nat);
 }
